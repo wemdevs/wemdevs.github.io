@@ -3,6 +3,11 @@
     margin: 0;
 }
 
+html {
+    scroll-behavior: smooth;
+    user-select: none;
+}
+
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 0.5em 1em;
