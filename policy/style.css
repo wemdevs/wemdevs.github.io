@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0.5em 1em;
+}
+
+h2  { padding: 0.5em;}
+
+h3 {
+    background-color: #ddd;
+    border-radius: 10px 10px 0 0;
+    padding: .5em;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    padding: 0.5em;
+}
+
+.app {
+    background-color: #eee;
+    border-radius: 10px;
+    margin: 2em 0;
+}
+
+.content {
+    padding: 1em;
+}
