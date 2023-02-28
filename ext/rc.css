@@ -1,10 +1,10 @@
 @font-face {
-    font-family: nunito;
-    src: url("https://wemdevs.github.io/ext/nunito.ttf");
+    font-family: psans;
+    src: url("https://wemdevs.github.io/ext/psans.ttf");
 }
 
 * {
-    font-family: nunito!important;
+    font-family: psans!important;
 }
 
 ._19RUehfeFmYKhUL8NgeNVi {
