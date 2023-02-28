@@ -1,3 +1,12 @@
+@font-face {
+    font-family: nunito;
+    src: url(nunito.ttf);
+}
+
+* {
+    font-family: nunito!important;
+}
+
 ._19RUehfeFmYKhUL8NgeNVi {
     display:none!important;
 }
