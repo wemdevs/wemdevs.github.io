@@ -3,7 +3,7 @@
     src: url("https://wemdevs.github.io/ext/nunito.ttf");
 }
 
-body {
+* {
     font-family: nunito!important;
 }
 
