@@ -1,6 +1,6 @@
 @font-face {
     font-family: nunito;
-    src: url(nunito.ttf);
+    src: url("https://wemdevs.github.io/ext/nunito.ttf");
 }
 
 html {
