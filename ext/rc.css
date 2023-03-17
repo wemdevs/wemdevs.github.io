@@ -1,10 +1,10 @@
 @font-face {
-    font-family: psans;
-    src: url("https://wemdevs.github.io/ext/psans.ttf");
+    font-family: inter;
+    src: url("https://wemdevs.github.io/ext/inter.ttf");
 }
 
 * {
-    font-family: psans!important;
+    font-family: inter!important;
 }
 
 ._19RUehfeFmYKhUL8NgeNVi {
